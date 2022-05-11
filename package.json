@@ -60,7 +60,7 @@
     "ws": "^6.2.1"
   },
   "dependencies": {
-    "@oclif/command": "^1.5.18",
+    "@oclif/command": "^1.8.16",
     "@oclif/config": "^1.13.3",
     "@oclif/plugin-help": "^2.2.1",
     "@rauschma/stringio": "^1.4.0",
